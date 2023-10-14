@@ -22,3 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Configurações de arquivos
+todolist/src/main/resources/application.properties
+todolist/src/main/resources/application-prod.properties
+
+# DB
+todolist/src/main/resources/db/migration

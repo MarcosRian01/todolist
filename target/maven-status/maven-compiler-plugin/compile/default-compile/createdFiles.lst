@@ -1,0 +1,10 @@
+com\projrocketseat\todolist\user\controller\PrimeiraController.class
+com\projrocketseat\todolist\task\controller\TaskController.class
+com\projrocketseat\todolist\infra\security\FilterTaskAuth.class
+com\projrocketseat\todolist\task\repository\TaskRepository.class
+com\projrocketseat\todolist\user\repository\UserRepository.class
+com\projrocketseat\todolist\TodolistApplication.class
+com\projrocketseat\todolist\infra\security\SecurityConfig.class
+com\projrocketseat\todolist\user\user\User.class
+com\projrocketseat\todolist\task\model\TaskModel.class
+com\projrocketseat\todolist\user\controller\UserController.class
